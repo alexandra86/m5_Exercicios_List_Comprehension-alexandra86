@@ -1,5 +1,10 @@
 <h1 align = "center">📖 Atividade - 🧠 Lógica - Exercitando List Comprehension</h1><br>
 
+<h2>Tecnologia utilizada</h2>
+<div style="display: inline_block"><br>
+<img align="center" alt="Alexandra-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</div><br>
+
 <h2>Introdução</h2>
 
 <p>Nesta atividade você exercitará seus conhecimentos sobre <i>list comprehension</i>.</p><br>
